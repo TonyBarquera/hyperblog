@@ -1,6 +1,7 @@
 Esta es la historia de Tony Barquera
 
 Tony Barquera tiene 19 años y nació en Dallas, Tx
+Represente al estado de Hidalgo en la olimpiada mexicana de informatica en 2019
 
 Hoy hablaremos de programación
 Resolveremos problemas de programación competitiva
