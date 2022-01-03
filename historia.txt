@@ -3,3 +3,4 @@ Esta es la historia de Tony Barquera
 Tony Barquera tiene 19 años y nació en Dallas, Tx
 
 Hoy hablaremos de programación
+Resolveremos problemas de programación competitiva
